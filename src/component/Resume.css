@@ -1,0 +1,13 @@
+.resume-section {
+    padding: 25px;
+	height: 80.5vh;
+    font-size: 1.25em;
+}
+
+.resume-container {
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}

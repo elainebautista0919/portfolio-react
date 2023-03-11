@@ -1,4 +1,5 @@
 import React from 'react';
+import './Resume.css';
 
 function Resume() {
     return (
@@ -11,22 +12,17 @@ function Resume() {
                     </p>
                     <br />
 
-                <h2>front end</h2>
+                <h2>proficiencies</h2>
                 <ul>
                     <li>html</li>
                     <li>css</li>
                     <li>javascript</li>
                     <li>react</li>
-                </ul>
-                     <br />
-
-                <h2>back end</h2>
-                <ul>
                     <li>api</li>
-                     <li>express</li>
+                    <li>express</li>
                     <li>node</li>
                     <li>mysql</li>
-            </ul>
+                </ul>
             </div>
         </section>
     );
