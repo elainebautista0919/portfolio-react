@@ -1,19 +1,10 @@
-.section-title {
-	padding: 10px 0 0 0;
+#about {
+	padding: 25px;
 	font-weight: 300;
 	text-align: center;
 	letter-spacing: 1px;
-    color: rgb(81, 79, 79)
-}
-
-.section-title:after {
-	display: block;
-	height: 2px;
-	background-color: #555;
-	content: ' ';
-	width: 100px;
-	margin: 0 auto;
-	margin-top: 5px;
+    color: rgb(81, 79, 79);
+    height: 80.5vh;
 }
 
 .section-text {
@@ -22,10 +13,11 @@
 	word-spacing: 4px;
 	line-height: 1.5em;
 	margin: 0 400px;
+    font-size: 1.25em;
 }
 
-.icon {
-    height: 300px;
+.photo {
+    height: 200px;
 	width: auto;
 	padding: 30px 0 0 0;
 	margin: 0 auto;

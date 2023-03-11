@@ -6,12 +6,11 @@ function About(){
     return (
         <section id='about'>
 
-            <h2 className='section-title'>about me</h2>
 
             <img
                 scr={icon}
                 alt='placeholder image'
-                className='icon'
+                className='photo'
             />
 
             <h4 className='section-text'>

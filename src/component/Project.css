@@ -1,0 +1,11 @@
+#projects {
+	margin: 20px;
+	position: relative;
+}
+
+.project-img {
+	height: auto;
+	width: 40vw;
+	display: block;
+	position: relative;
+}

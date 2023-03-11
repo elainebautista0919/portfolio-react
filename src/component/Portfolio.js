@@ -3,6 +3,7 @@ import Project from './Project';
 import codewith from '../resources/codingwith.png';
 import budgettracker from '../resources/budgettracker.png';
 import jate from '../resources/jate.png';
+import './Portfolio.css';
 
 function Portfolio(props) {
     return (
