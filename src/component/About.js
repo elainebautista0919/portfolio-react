@@ -1,17 +1,11 @@
 import React from 'react';
-import icon from '../resources/icon.png';
+import budgettracker from '../resources/budgettracker.png';
 import './About.css';
 
 function About(){
     return (
         <section id='about'>
-
-
-            <img
-                scr={icon}
-                alt='placeholder image'
-                className='photo'
-            />
+            <h1 data-testid='h1tag'>about me</h1>
 
             <h4 className='section-text'>
                 full stack developer with 1 year experience
