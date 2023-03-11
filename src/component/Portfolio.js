@@ -1,6 +1,6 @@
 import React from 'react';
 import Project from './Project';
-import codewith from '../resources/codewith.png';
+import codewith from '../resources/codingwith.png';
 import budgettracker from '../resources/budgettracker.png';
 import jate from '../resources/jate.png';
 
@@ -15,8 +15,8 @@ function Portfolio(props) {
             </Project>
             <Project
                 name='budgettracker'
-                githubLink='https://github.com/The-Schwiz/Coding-With'
-                deployedLink='https://codingwith.herokuapp.com/'
+                githubLink='https://github.com/cdennis27/budgettrackergroup2'
+                deployedLink='https://cdennis27.github.io/budgettrackergroup2/'
                 projectPhoto={budgettracker}>
             </Project>
             <Project

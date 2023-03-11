@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Navigation from './componentNavigation';
+import Navigation from './component/Navigation';
 import Home from './component/Home';
 import About from './component/About';
 import Portfolio from './component/Portfolio';
@@ -12,13 +12,14 @@ function App() {
     const [activePage, setactivePage] = useState(pages[0]);
 
     function conditionalNav() {
-        if (activePage === 'home' || activePage === 'about') {
+        if (activePage === 'home') {
             return (
                 <>
                     <Home></Home>
-                    <About></About>
                 </>
             );
+    } else if (activePage === 'about') {
+        return <About></About>;
     } else if (activePage === 'portfolio') {
         return <Portfolio></Portfolio>;
     } else if (activePage === 'contact') {

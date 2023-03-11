@@ -1,5 +1,6 @@
 import React from 'react';
 import icon from '../resources/icon.png';
+import './About.css';
 
 function About(){
     return (

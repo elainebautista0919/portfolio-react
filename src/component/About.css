@@ -1,0 +1,33 @@
+.section-title {
+	padding: 10px 0 0 0;
+	font-weight: 300;
+	text-align: center;
+	letter-spacing: 1px;
+    color: rgb(81, 79, 79)
+}
+
+.section-title:after {
+	display: block;
+	height: 2px;
+	background-color: #555;
+	content: ' ';
+	width: 100px;
+	margin: 0 auto;
+	margin-top: 5px;
+}
+
+.section-text {
+	padding: 30px 0 30px 0;
+	font-weight: 300;
+	word-spacing: 4px;
+	line-height: 1.5em;
+	margin: 0 400px;
+}
+
+.icon {
+    height: 300px;
+	width: auto;
+	padding: 30px 0 0 0;
+	margin: 0 auto;
+	display: block;
+}

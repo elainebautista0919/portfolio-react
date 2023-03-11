@@ -7,7 +7,7 @@ function Resume() {
                 <h1>resume</h1>
                     <p>download my <span></span>
                         <a href='https://drive.google.com/file/d/1bh4QFYT7JJhAbOPKkjfBZf5Uq0Qco3NM/view?usp=share_link'
-                            target='_blank'>resume</a>
+                            target='_blank' rel='noreferrer'>resume</a>
                     </p>
                     <br />
 

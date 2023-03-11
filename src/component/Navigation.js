@@ -1,4 +1,5 @@
 import React from 'react';
+import './Navigation.css';
 
 function Navigation(props) {
     const {pages = [], activePage, setActivePage } = props;
@@ -12,7 +13,7 @@ function Navigation(props) {
                             <span
                                 onClick={() => 
                                     setActivePage('home')}>
-                                        <a href='#'>elaine's portfolio</a>
+                                        <a href='#'>home</a>
                             </span>
                     </li>
                     <li
