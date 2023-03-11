@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.5c4b484b.css",
-    "main.js": "/portfolio-react/static/js/main.c2b2b181.js",
-    "static/media/codingwith.png": "/portfolio-react/static/media/codingwith.0659e64b214984479c09.png",
-    "static/media/icon.png": "/portfolio-react/static/media/icon.ecd78fbc24dbf0457dc8.png",
-    "static/media/budgettracker.png": "/portfolio-react/static/media/budgettracker.da33f01a4f0f62ec10bc.png",
+    "main.css": "/portfolio-react/static/css/main.0b6832f2.css",
+    "main.js": "/portfolio-react/static/js/main.59b5331f.js",
+    "static/media/codingwith.png": "/portfolio-react/static/media/codingwith.86d7f681497cb802b4a5.png",
+    "static/media/budgettracker.png": "/portfolio-react/static/media/budgettracker.22fb0af02a0c3de09614.png",
+    "static/media/techblog.png": "/portfolio-react/static/media/techblog.9c54b6b51467c53502de.png",
+    "static/media/jate.png": "/portfolio-react/static/media/jate.7b7859fc3475f0793b0e.png",
     "index.html": "/portfolio-react/index.html",
-    "main.5c4b484b.css.map": "/portfolio-react/static/css/main.5c4b484b.css.map",
-    "main.c2b2b181.js.map": "/portfolio-react/static/js/main.c2b2b181.js.map"
+    "main.0b6832f2.css.map": "/portfolio-react/static/css/main.0b6832f2.css.map",
+    "main.59b5331f.js.map": "/portfolio-react/static/js/main.59b5331f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c4b484b.css",
-    "static/js/main.c2b2b181.js"
+    "static/css/main.0b6832f2.css",
+    "static/js/main.59b5331f.js"
   ]
 }
