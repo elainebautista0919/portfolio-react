@@ -20,6 +20,7 @@ function Project(props) {
                         href={githubLink}
                         target='_blank'
                         rel='noreferrer'>
+                        <img src='https://cdn.simpleicons.org/github/black' alt='github logo' className='github'/>
                     </a>
                 </h1>
             </div>
