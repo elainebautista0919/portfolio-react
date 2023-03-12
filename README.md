@@ -28,4 +28,4 @@
 
   For any questions about the project, please reach out to the information below:
   > Email: elaine.bautista@gmail.com <br>
-  > GitHub: elaine0919
+  > GitHub: https://github.com/elainebautista0919
